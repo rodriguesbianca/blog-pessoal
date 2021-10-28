@@ -1,6 +1,6 @@
 baseURL: https://rodriguesbianca.netlify.app/
 theme: hugo-apero
-languageCode: pt
+languageCode: pt-br
 title: Bianca Rodrigues
 author: Bianca Rodrigues
 copyright: ''
@@ -45,7 +45,7 @@ params:
     renderer: katex
   navallcaps: no
   orgLocal: Bianca Rodrigues
-  orgName: Feito por uma nordestina
+  orgName: Feito no nordeste
   sharing_image: /img/papillons.jpg
   social:
     - icon: github
@@ -78,17 +78,13 @@ menu:
       title: License
       url: /license/
       weight: 1
-    - name: Contact
+    - name: Contato
       title: Contact form
       url: /contact/
       weight: 2
-    - name: Contributors
-      title: Contributors
-      url: /contributors/
-      weight: 3
   header:
-    - name: About
-      title: About Blogophonic
+    - name: Sobre mim
+      title: Sobre mim
       url: /about/
       weight: 1
     - name: Blog
@@ -99,12 +95,8 @@ menu:
       title: Portfólio de Projetos
       url: /project/
       weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: A collection
-      title: A collection
+    - name: Pra lá de exatas
+      title: Pra lá de exatas
       url: /collection/
       weight: 5
 
