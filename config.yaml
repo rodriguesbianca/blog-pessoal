@@ -44,8 +44,8 @@ params:
   math:
     renderer: katex
   navallcaps: no
-  orgLocal: Bianca Rodrigues
-  orgName: Feito no nordeste
+  orgLocal: chamada Bianca
+  orgName: Blog criado por uma nordestina
   sharing_image: /img/papillons.jpg
   social:
     - icon: github
@@ -88,15 +88,15 @@ menu:
       url: /about/
       weight: 1
     - name: Blog
-      title: Blog
+      title: Pra cá de exatas
       url: /blog/
       weight: 2
     - name: Projetos
       title: Portfólio de Projetos
       url: /project/
       weight: 3
-    - name: Pra lá de exatas
-      title: Pra lá de exatas
+    - name: Pra lá de humanas
+      title: Pra lá de humanas
       url: /collection/
       weight: 5
 
