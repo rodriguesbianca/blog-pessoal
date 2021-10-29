@@ -15,7 +15,7 @@ show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: Bianca Rodrigues
-  description: ""
+  description: "Em construção"
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
