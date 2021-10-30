@@ -34,9 +34,9 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/favicon.ico
+  favicon: /img/icone-blog.png
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/logo-eu.png
   mainSections:
     - blog
     - project
@@ -80,25 +80,29 @@ menu:
       weight: 1
     - name: Contato
       title: Contact form
-      url: /contact/
+      url: https://formspree.io/f/mgerjezl
       weight: 2
   header:
+    - name: Pagina inicial
+      title: Pafina inicial
+      url: https://rodriguesbianca.netlify.app/
+      weight: 1
     - name: Sobre mim
       title: Sobre mim
       url: /about/
-      weight: 1
+      weight: 2
     - name: Blog
       title: Pra cá de exatas
       url: /blog/
-      weight: 2
+      weight: 3
     - name: Projetos
       title: Portfólio de Projetos
       url: /project/
-      weight: 3
+      weight: 4
     - name: Pra lá de humanas
       title: Pra lá de humanas
       url: /talk/
-      weight: 4
+      weight: 5
 
 privacy:
   disqus:
