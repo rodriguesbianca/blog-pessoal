@@ -1,6 +1,6 @@
 baseURL: https://rodriguesbianca.netlify.app/
 theme: hugo-apero
-languageCode: pt
+languageCode: pt-br
 title: Bianca Rodrigues
 author: Bianca Rodrigues
 copyright: ''
@@ -40,12 +40,12 @@ params:
   mainSections:
     - blog
     - project
-    - talk
+    - humanas
   math:
     renderer: katex
   navallcaps: no
-  orgLocal: chamada Bianca
-  orgName: Feito por uma nordestina
+  orgLocal: Paraíba - Brasil
+  orgName: Bianca Rodrigues
   sharing_image: /img/papillons.jpg
   social:
     - icon: github
@@ -78,13 +78,9 @@ menu:
       title: License
       url: /license/
       weight: 1
-    - name: Contato
-      title: Contact form
-      url: https://formspree.io/f/mgerjezl
-      weight: 2
   header:
     - name: Pagina inicial
-      title: Pafina inicial
+      title: Pagina inicial
       url: https://rodriguesbianca.netlify.app/
       weight: 1
     - name: Sobre mim
@@ -101,9 +97,8 @@ menu:
       weight: 4
     - name: Pra lá de humanas
       title: Pra lá de humanas
-      url: /talk/
+      url: /humanas/
       weight: 5
-
 privacy:
   disqus:
     disable: no
