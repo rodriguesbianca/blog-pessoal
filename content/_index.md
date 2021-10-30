@@ -9,7 +9,7 @@ description: Escrevo essa definição enquanto estou no meu último ano do curso
   eu ando estudando nesse universo de Data Science. 
 image_left: false
 images:
-- eu-inicio.jpeg
+- capa-blog.png
 show_action_link: true
 show_social_links: true
 subtitle: Estatista, contadora de histórias e questionadora profissional. 
