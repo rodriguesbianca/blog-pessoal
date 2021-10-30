@@ -16,8 +16,7 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Bianca Rodrigues
-  description: "Este site é o meu jardim digital, algo entre um bloco de notas e um blog.
-  Fique à vontade para olhar ao redor e ver o que estou plantando."
+  description: "Aqui escrevo rascunhos e projetos sobre Estatística, Python e Machine Learning"
   show_sidebar_adunit: false
   text_link_label:
   text_link_url:
