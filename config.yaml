@@ -60,7 +60,7 @@ params:
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: "poppy"
+  theme: "grayscale"
   twitter: apreshill
   utterances:
     issue_term: pathname

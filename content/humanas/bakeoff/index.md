@@ -13,7 +13,7 @@ layout: single
 
 ![Marca pessoal](marca-pessoal.png)
 
-### Personal branding
+---
 
 ![Logo marca](logo-marca.png)
 
