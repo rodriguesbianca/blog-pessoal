@@ -31,11 +31,12 @@ markup:
     startLevel: 2
 params:
   custom_theme: ''
-  customheadingFontFamily: Fraunces
-  customtextFontFamily: Commissioner
+  customheadingFontFamily: "Bodoni"
+  customtextFontFamily: "Commissioner"
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: /img/icone-blog.png
-  headingFontFamily: sans-serif
+  textFontFamily: "sans-serif"
+  headingFontFamily: "serif"
   logo: /img/avatar-eu.png
   mainSections:
     - blog
@@ -59,8 +60,7 @@ params:
       url: https://www.linkedin.com/in/crodriguesbianca/
   socialInFooter: yes
   socialInHeader: no
-  textFontFamily: sans-serif
-  theme: "grayscale"
+  theme: "violet"
   twitter: apreshill
   utterances:
     issue_term: pathname
@@ -116,5 +116,3 @@ privacy:
   youtube:
     disable: no
     privacyEnhanced: yes
-plugins :
-  - jekyll-figure
