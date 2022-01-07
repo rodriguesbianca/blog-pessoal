@@ -6,15 +6,18 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Sou uma estatista em formação e artista que vive em Campina Grande, na Paraíba. 
+  Meu nome é Bianca, e meu pronome é **“ela”**. Atualmente sou graduanda em Estatística na Universidade Federal de Campina Grande. Meus princípais interesses são em análises de dados com aplicações em *Marketing* de relacionamento, aprendizado de máquina e visualização de dados.  
   
-  Aos 17 anos ingressei na Universidade Federal de Campina Grande no curso de Estatística, pois sempre fui questionadora por natureza e apaixonada por números. Mas, com o passar dos anos senti que estava me distanciando cada vez mais do meu lado artístico.
+  Programo em R desde 2018, portanto, 80% das minhas análises são feitas no R, incluíndo este blog 🙂. As outras 20% são feitas no Python ou Power Bi. Espero deixar esse percentual um pouco mais equilibrado, além de, claro, aprender outras linguagens. 
   
-  Em 2018, decidi sair do curso e passei a me dedicar mais a arte manual e as ilustrações. Em março de 2020, voltei ao curso de Estatística com o intuíto de concluir a graduação pois, finalmente, encontrei na Análise de dados o que tanto buscava: **a linha tênue entre a arte e a ciência**. 
+  Algumas curiosidades (nem tanto) sobre mim:
+  
+  - Gosto muito de bordar, me auto denomino de artista têxtil (chique);
+  - Não consigo assistir filmes longos, mas amo maratonar k-dramas sempre que possível. 
+  - Tenho a gatinha mais fofa e covarde de todas, “Mingau” 💜
+  - Meu livro favorito é “Feliz ano velho” do Marcelo Rubens Paiva;
+  - Faço quase tudo ouvindo música. Meus artista preferidos são: The Rose, Harry styles e BTS. Juro que se você ouvir sem preconceito também vai amar 💜
 
-  Poder resumir informações importantes e transformar dados em imagens e histórias é o que me motiva. 
-
-  Quando não estou estudando/trabalhando ou programando, gosto muito de bordar e assistir k-dramas, praticar yoga, caminhar e brincar com os animais que vivem aqui em casa (atualmente 2 gatas e 2 cachorrinhas).
 show_outro: true
 outro: |
 

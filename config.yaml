@@ -36,7 +36,7 @@ params:
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: /img/icone-blog.png
   headingFontFamily: sans-serif
-  logo: /img/logo-eu.png
+  logo: /img/avatar-eu.png
   mainSections:
     - blog
     - project
@@ -95,10 +95,6 @@ menu:
       title: Portfólio de Projetos
       url: /project/
       weight: 4
-    - name: Pra lá de humanas
-      title: Pra lá de humanas
-      url: /humanas/
-      weight: 5
 privacy:
   disqus:
     disable: no
@@ -120,3 +116,5 @@ privacy:
   youtube:
     disable: no
     privacyEnhanced: yes
+plugins :
+  - jekyll-figure
