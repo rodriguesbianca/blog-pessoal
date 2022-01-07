@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: Ver todos os posts
     text_link_url: /blog/
-description: "Aqui escrevo rascunhos e projetos sobre Estatística, Python e Machine Learning"
+description: "Estatística, Programação, Machine Learning: rascunhos & projetos de uma Estatista (pra cá de Exatas) e artista (pra lá de humanas)."
 layout: list-grid
 show_author_byline: true
 show_post_date: false
