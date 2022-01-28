@@ -88,4 +88,32 @@ Nesta etapa, vamos obter conhecimento a respeito de como os dados estão estrutu
 
 Os códigos utilizados estão disponíveis [aqui](https://github.com/rodriguesbianca/perfil-epidemiologico)
 
+
+Ao analisar os dados sobre a qualidade de vida, me deparei com um problema de visualização. Os dados possuíam 3 variáveis divididas em 3 categorias. As categorias referentes a Dor/Mal-Estar e Ansiedade/Depressão seguiam uma escala de "Nenhum" a "Extremo"", já as categorias sobre as atividades habituais seguiam a seguinte ordem:
+
+1. Não tenho problemas em desempenhar as minhas atividades habituais;
+
+2. Tenho apenas alguns problemas em desempenhar as minhas atividades habituais;
+
+3. Sou incapaz de desempenhar as minhas atividades habituais.
+
+
+A primeira coisa a se fazer ao se deparar com um desao de visualização é certifica-se de ter um sólido entendimento do contexto e do que é preciso comunicar.
+
+Neste caso, o objetivo consistia em avaliar a qualidade de vida dos participantes de acordo com três aspectos, divididos em 3 categorias que especificavam uma escala. Então, com o intuito de resumir as informações para facilitar a comunicação e visualização dos dados, fiz algumas mudanças.
+
+Primeiro, remodelamos a forma com que a variável "Atividades habituais" foi classificada. Ao fazer isso, fiz uma pequena modificação nas categorias, sem alterar o contexto. Nessa reedição, a variável ficou classificada da seguinte forma:
+
+- Problemas em realizar atividades habituais:
+
+  1. Não tenho problemas;
+  
+  2. Tenho problemas moderados;
+  
+  3. Tenho problemas extremos.
+
+Também acrescentei a observação secundária: "Problemas extremos ao desempenhar as atividades habituais, significa que o participante é incapaz de desempenhar tais atividades". Por fim, escolhi um gráfico de barras horizontais para representar as informações.
+
+
+
 Após deixar a base de dados da forma que queríamos, podemos prosseguir com a análise exploratória. (próximo post) 
