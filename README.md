@@ -4,7 +4,7 @@ Meu site/portfólio criado com o objetivo de mostrar meus projetos e trilha de e
 Essa é a carinha inicial dele 🥰: 
 
  <div style="display: inline_block"><br>
-    <img align="center" alt="pagina-blog" height="400" style="border-radius:50px;" src="pagina-inicio-blog.png">
+    <img align="center" alt="pagina-blog" height="400" style="border-radius:50px;" src="pagina-inicial-blog.png">
  </div>
  
  <br>
