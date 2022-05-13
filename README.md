@@ -10,5 +10,5 @@ Essa é a carinha inicial dele 🥰:
  <br>
  
  <p> 
-  O Blog foi feito utilizando o <i>blogdown</i> e o <i>R</i>. Além disso, todo o código usado foi baseado <a href="https://hugo-apero-docs.netlify.app/start/">neste post da Alison Hill</a> e na <a href="https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/">documentação do Hugo Apéro</a>
+  O Blog foi feito utilizando o <i>blogdown</i> e o <i>R</i>. Todo o código usado foi baseado <a href="https://hugo-apero-docs.netlify.app/start/">neste post da Alison Hill</a> e na <a href="https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/">documentação do Hugo Apéro</a>
  </p>
