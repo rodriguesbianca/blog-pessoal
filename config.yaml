@@ -31,13 +31,13 @@ markup:
     startLevel: 2
 params:
   custom_theme: ''
-  customheadingFontFamily: "Bodoni"
+  customheadingFontFamily: "Avenir"
   customtextFontFamily: "Commissioner"
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: /img/icone-blog.png
   textFontFamily: "sans-serif"
   headingFontFamily: "serif"
-  logo: /img/avatar-eu.png
+  logo: /img/icone-inicio.png
   mainSections:
     - blog
     - project
@@ -54,13 +54,13 @@ params:
       url: https://github.com/rodriguesbianca
     - icon: instagram
       icon_pack: fab
-      url: https://www.instagram.com/crodriguesbianca/
+      url: https://www.instagram.com/crodrigues.bianca/
     - icon: linkedin
       icon_pack: fab
       url: https://www.linkedin.com/in/crodriguesbianca/
   socialInFooter: yes
   socialInHeader: no
-  theme: "violet"
+  theme: "grayscale"
   twitter: apreshill
   utterances:
     issue_term: pathname
@@ -88,10 +88,10 @@ menu:
       url: /about/
       weight: 2
     - name: Blog
-      title: Pra cá de exatas
+      title: Verão de 97
       url: /blog/
       weight: 3
-    - name: Projetos
+    - name: Portfólio
       title: Portfólio de Projetos
       url: /project/
       weight: 4

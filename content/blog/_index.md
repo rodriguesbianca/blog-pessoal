@@ -8,19 +8,19 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: Ver todos os posts
     text_link_url: /blog/
-description: "Estatística, Programação, Machine Learning: rascunhos & projetos de uma Estatista (pra cá de Exatas) e artista (pra lá de humanas)."
+description: "Histórias - um tanto visuais - baseadas em dados."
 layout: list-grid
 show_author_byline: true
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: Bianca Rodrigues
-  description: "Em construção"
+  description: ""
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: Pra cá de exatas
-title: Pra cá de exatas
+  title: Verão_97
+title: Verão_97
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

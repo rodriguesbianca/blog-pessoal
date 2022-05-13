@@ -1,33 +1,32 @@
 ---
-title: "Create a Collection"
-subtitle: "A collection, minus the blog."
-description: |
-  Sometimes you want a souped-up series- a bundle of related pages 
-  meant to be read in sequence. This section is like a blog series, 
-  minus the blog.
-author: Alison Hill
+title: Pra lá de humanas
+description: "Nesta seção escrevo textos sobre arte, criatividade e a vida &hearts;"
+author: ""
 show_post_thumbnail: true
-thumbnail_left: false # for list-sidebar only
-show_author_byline: false
+show_author_byline: true
 show_post_date: false
 # for listing page layout
-layout: list-sidebar # list, list-sidebar
+layout: list-grid # list, list-sidebar, list-grid
 
-# set up common front matter for all individual pages in series
-cascade:
-  layout: single-series 
+# for list-sidebar layout
+sidebar: 
+  title: Pra lá de humanas
+  description: |
+  author: "Bianca Rodrigues"
+  text_link_label: ""
+  text_link_url: ""
+  show_sidebar_adunit: false # show ad container
+
+# set up common front matter for all individual pages inside project/
+cascade:    
+  show_author_byline: true
+  show_post_date: true
+  show_comments: false # see site config to choose Disqus or Utterances
+  # for single-sidebar layout only
   sidebar:
-    title: "Create a Collection"
-    author: Alison Hill
-    description: |
-      Sometimes you want a souped-up series- a bundle of related pages 
-      meant to be read in sequence. This section is like a blog series, 
-      minus the blog.
-    show_author_byline: true
-    show_post_date: true
-    text_link_label: ""
-    text_link_url: ""
-    show_sidebar_adunit: true # show ad container, first page only
-    text_series_label: "Outline" 
-    text_contents_label: "On this page" 
+    text_link_label: Ver outros textos
+    text_link_url: /humanas/
+    show_sidebar_adunit: true # show ad container
 ---
+
+** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
