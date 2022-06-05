@@ -2,13 +2,13 @@
 action_label: Leia mais &rarr;
 action_link: /about
 action_type: text
-description: Olá e bem vinde ao meu cantinho na internet! Aqui você vai encontrar várias histórias - boas ou não - baseadas em dados e alguns dos meus de projetos de *analytics*. Sinta-se à vontade para olhar ao redor!  
+description: Aqui você vai encontrar alguns rascunhos & projetos de uma artista multidisciplinar que se aventurou na análise de dados. Sinta-se à vontade para olhar ao redor!  
 image_left: false
 images:
-- capa-blog.png
+- capa-blog-pessoal.png
 show_action_link: true
 show_social_links: true
-subtitle: Estatista, contadora de histórias e questionadora profissional. 
+subtitle: Analista de dados e artista multidisciplinar. 
 text_align_left: true
 title: Bianca Rodrigues
 type: home

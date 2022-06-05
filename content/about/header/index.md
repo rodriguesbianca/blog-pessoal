@@ -3,10 +3,9 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
+  Olá! Bem vinde.
   
 ---
 
 <!-- this is a subheadline -->
-“*[...] As pessoas mudam, como eu mudei. Vivendo num mundo onde nada é eterno. Todas as coisas que acontecem são passageiras*”  
-
-Trecho da música People - Agust D
+Meu nome é Bianca Rodrigues sou analista de dados, questionadora profissional e artista, e este é o meu site pessoal :) 

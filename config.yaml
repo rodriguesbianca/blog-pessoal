@@ -34,7 +34,7 @@ params:
   customheadingFontFamily: "Avenir"
   customtextFontFamily: "Commissioner"
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/icone-blog.png
+  favicon: /icone-blog-pessoa.png
   textFontFamily: "sans-serif"
   headingFontFamily: "serif"
   logo: /img/icone-inicio.png
@@ -60,7 +60,7 @@ params:
       url: https://www.linkedin.com/in/crodriguesbianca/
   socialInFooter: yes
   socialInHeader: no
-  theme: "grayscale"
+  theme: "forest"
   twitter: apreshill
   utterances:
     issue_term: pathname
@@ -83,12 +83,12 @@ menu:
       title: Pagina inicial
       url: https://rodriguesbianca.netlify.app/
       weight: 1
-    - name: Sobre mim
-      title: Sobre mim
+    - name: Sobre
+      title: Sobre
       url: /about/
       weight: 2
     - name: Blog
-      title: Verão de 97
+      title: Blog
       url: /blog/
       weight: 3
     - name: Portfólio

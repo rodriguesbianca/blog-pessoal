@@ -6,12 +6,17 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Uma estatista apaixonada por arte e por análise de dados, acredito que essa é a minha melhor definição. Essas duas paixões, num primeiro momento podem parecer distintas, mas elas têm algo em comum: ambas são formas de comunicar qualquer coisa a qualquer um. 
+  Sou formada em Estatística pela Universidade Federal de Campina Grande (UFCG), passei por diversos projetos de extensão como a Praça das Profissões - uma iniciativa da UFCG junto à Finep - e o Programa de Educação Tutorial (PET) fornecido pelo CNPq (o PET é um grupo de pesquisa e extensão no qual visa desenvolver atividades acadêmicas, como pesquisa científica, monitorias, cursos, etc). Em 2021, fui estagiária no Laboratório de Análises Estatísticas da UFCG (LANEST), onde realizei diversas análises de dados que me mostraram a importância de entender o contexto dos problemas e como é crucial criar uma narrativa de dados. 
+  
+  **O que ando fazendo:**
+  
+  Atualmente, sou uma das responsáveis pela produção de conteúdo nas redes sociais da comunidade [Mulheres em dados](https://www.linkedin.com/company/mulheresemdados/?originalSubdomain=br) e, enquanto trabalho em alguns *freelas*, busco sempre estudar e me manter atualizada. 
+
+
   
   
-  A forma artística que gosto de me expressar é através de desenhos. Essa paixão por entender quais elementos um desenho carrega para comunicar me levou a desenvolver o que chamo de “pequeno empreendimento artistico”, onde conto histórias de pessoas através de desenhos e bordados. Nos últimos anos, além de desenhar, passei a me expressar através da escrita. Usando um aplicativo de anotações analogico, mais conhecido como caderno de anotações, escrevo sobre coisas simples ou não tão simples que me deparo ao longo dos dias. Afinal, existem boas histórias para serem contadas em todos os lugares. Tudo depende do olhar.
-  
-  Sou formada em estatística pela UFCG, passei por diversos projetos de extensão como a Praça das Profissões - uma iniciativa da UFCG junto à Finep - e o Programa de Educação Tutorial (PET) que consiste na criação de um grupo de pesquisa e extensão com o objetivo de desenvolver atividades acadêmicas. E, em 2021, fui estagiária no Laboratório de Análises Estatísticas da UFCG (LANEST). As análises realizadas durante o estágio me mostraram a importância de entender o contexto dos problemas e como é crucial criar uma narrativa de dados, pois de nada adianta fazer um super processo analítico, recheado de ótimas técnicas estatísticas, se não souber comunicar.
+
+
  
 show_outro: true
 outro: |
