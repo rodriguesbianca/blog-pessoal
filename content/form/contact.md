@@ -2,9 +2,9 @@
 date: "2019-02-25T13:38:41-06:00"
 description: 
 draft: false
-formspree_form_id: c.rodriguesbianca@gmail.com
+formspree_form_id: mgerjezl
 layout: split-right
-name: Contact Us Form
+name: form_blogPessoal
 show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Send Message

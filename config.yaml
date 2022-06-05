@@ -78,6 +78,10 @@ menu:
       title: License
       url: /license/
       weight: 1
+    - name: Contato
+      title: Contato
+      url: /contact/
+      weight: 2
   header:
     - name: Pagina inicial
       title: Pagina inicial
@@ -95,6 +99,10 @@ menu:
       title: Portfólio de Projetos
       url: /project/
       weight: 4
+    - name: Contato
+      title: Contato
+      url: /contact/
+      weight: 5
 privacy:
   disqus:
     disable: no
