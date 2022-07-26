@@ -88,7 +88,7 @@ menu:
       url: https://lemondados.netlify.app/
       weight: 1
     - name: Sobre mim
-      title: Sobre mim
+      title: Sobre
       url: /about/
       weight: 2
     - name: Lemon dados
