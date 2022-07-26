@@ -74,7 +74,7 @@ taxonomies:
   tag: tags
 menu:
   footer:
-    - name: License
+    - name: Licença
       title: License
       url: /license/
       weight: 1
