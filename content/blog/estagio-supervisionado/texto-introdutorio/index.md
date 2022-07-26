@@ -26,7 +26,7 @@ A Radiator Springs é uma revendedora de automóveis de luxo fundada em 2016 na 
 
 Neste momento uma pergunta muito importante precisa ser respondida: **Você conseguiu pegar a referência contida neste post?** Uma dica:
 
-<iframe src="https://giphy.com/embed/expSIcGXjZbe8" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneypixar-disney-pixar-expSIcGXjZbe8">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/expSIcGXjZbe8" width="700" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneypixar-disney-pixar-expSIcGXjZbe8">via GIPHY</a></p>
 
 E agora? 
 
@@ -58,11 +58,13 @@ A fonte de dados é um arquivo Excel com dados coletados do sistema de vendas e 
 
 ## Desenvolvimento
 
+Por ser o primeiro estudo de caso do curso e também o primeiro contato com a ferramenta, o dashboard foi desenvolvido junto com o professor. O objetivo aqui é familiarizar-se com o Power Bi. Entretanto, a minha escolha de gráficos foi um pouco diferente da escolha do professor. Isso porque tenho um certo desprezo pelos gráficos de pizza, nada pessoal, apenas estou de total acordo com a Cole Nussbaumer, quando ela afirma que gráficos de pizza são ruins, porque eles são! Além disso, quando os dados são contínuos e estão em alguma unidade de tempo (como dias, meses ou anos), geralmente, uso gráficos de linhas para visualizá-los.
+
+Voilá, temos um Dashboard de vendas
+
 <a href="dash-estudoDeCaso01.png">
 <img src="dash-estudoDeCaso01.png">
 </a>
-
-Por ser o primeiro estudo de caso do curso e também o primeiro contato com a ferramenta, o dashboard foi desenvolvido junto com o professor. O objetivo aqui é familiarizar-se com o Power Bi. Entretanto, a minha escolha de gráficos foi um pouco diferente da escolha do professor. Isso porque tenho um certo desprezo pelos gráficos de pizza, nada pessoal, apenas estou de total acordo com a Cole Nussbaumer, quando ela afirma que gráficos de pizza são ruins, porque eles são! Além disso, quando os dados são contínuos e estão em alguma unidade de tempo (como dias, meses ou anos), geralmente, uso gráficos de linhas para visualizá-los.
 
 Assim, todas as informações solicitadas pelo gerente foram entregues. 
 

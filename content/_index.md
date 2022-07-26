@@ -8,7 +8,7 @@ images:
 - capa-blog-pessoal.png
 show_action_link: true
 show_social_links: true
-subtitle: Analista de dados e artista multidisciplinar. 
+subtitle: Analista de dados | Estatística 
 text_align_left: true
 title: Bianca Rodrigues
 type: home

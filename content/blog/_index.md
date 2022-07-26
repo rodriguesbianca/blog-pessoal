@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: Ver todos os posts
     text_link_url: /blog/
-description: "Com quantos limões se faz uma cientista de dados excepcional? Vamos descobrir! "
+description: "Com quantos limões se faz uma analista de dados excepcional? Vamos descobrir! "
 layout: list-grid
 show_author_byline: true
 show_post_date: false

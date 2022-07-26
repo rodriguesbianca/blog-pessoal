@@ -1,7 +1,7 @@
-baseURL: https://rodriguesbianca.netlify.app/
+baseURL: https://lemondados.netlify.app/
 theme: hugo-apero
 languageCode: pt-br
-title: Bianca Rodrigues
+title: Lemon dados
 author: Bianca Rodrigues
 copyright: ''
 googleAnalytics: ''
@@ -34,7 +34,7 @@ params:
   customheadingFontFamily: "Avenir"
   customtextFontFamily: "Commissioner"
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /icone-blog-pessoa.png
+  favicon: /img/logo-rosto.png
   textFontFamily: "sans-serif"
   headingFontFamily: "serif"
   logo: /img/icone-inicio.png
@@ -83,15 +83,15 @@ menu:
       url: /contact/
       weight: 2
   header:
-    - name: Pagina inicial
-      title: Pagina inicial
-      url: https://rodriguesbianca.netlify.app/
+    - name: Página inicial
+      title: Página inicial
+      url: https://lemondados.netlify.app/
       weight: 1
-    - name: Sobre
-      title: Sobre
+    - name: Sobre mim
+      title: Sobre mim
       url: /about/
       weight: 2
-    - name: Blog
+    - name: Lemon dados
       title: Blog
       url: /blog/
       weight: 3

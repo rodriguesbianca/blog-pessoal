@@ -1,16 +1,21 @@
 ---
 ## Configure page content in wide column
-title: "Quem sou eu na fila do pão?" # leave blank to exclude
+title: "Quem é Bianca na fila do pão?" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Sou formada em Estatística pela Universidade Federal de Campina Grande (UFCG), passei por diversos projetos de extensão como a Praça das Profissões - uma iniciativa da UFCG junto à Finep - e o Programa de Educação Tutorial (PET) fornecido pelo CNPq (o PET é um grupo de pesquisa e extensão no qual visa desenvolver atividades acadêmicas, como pesquisa científica, monitorias, cursos, etc). Em 2021, fui estagiária no Laboratório de Análises Estatísticas da UFCG (LANEST), onde realizei diversas análises de dados que me mostraram a importância de entender o contexto dos problemas e como é crucial criar uma narrativa de dados. 
+  Graduada em Estatística pela Universidade Federal de Campina Grande (UFCG). Participou do Programa de Educação Tutorial (PET), onde ministrou cursos de R e Latex, foi monitora da disciplina Inferência Estatística e iniciação científica na área de Análise Exploratória de Dados. 
   
-  **O que ando fazendo:**
+  Ainda na graduação (concluída em maio de 2022), foi estagiária no Laboratório de Análises Estatística da UFCG e realizou diversas análises que lhe mostraram a importância de entender o contexto dos problemas e como é crucial criar uma narrativa de dados.
   
-  Atualmente, sou uma das responsáveis pela produção de conteúdo nas redes sociais da comunidade [Mulheres em dados](https://www.linkedin.com/company/mulheresemdados/?originalSubdomain=br) e, enquanto trabalho em alguns *freelas*, busco sempre estudar e me manter atualizada. 
+  No início de 2022, atuou como voluntária na comunidade [Mulheres em dados](https://www.linkedin.com/company/mulheresemdados/?originalSubdomain=br), sendo responsável por ajudar na produção dos conteúdos do Instagram. 
+  
+  Atualmente, trabalha como estagiaria na [Linhares Prudêncio Consultoria e Gestão Empresarial](https://linharesprudencio.com.br/), onde auxilia a monitorar o financeiro de diversas empresas, bem como controlar gastos, prever problemas, sugerir soluções e apresentar esses dados periodicamente.
+
+  
+ 
 
 
   
