@@ -2,7 +2,7 @@
 title: "Sobre o blog"
 excerpt: "O que você vai encontrar aqui"
 subtitle: "O que você vai encontrar aqui"
-date: 2022-06-01
+date: 2022-08-01
 author: "Bianca Rodrigues"
 draft: false
 tags:

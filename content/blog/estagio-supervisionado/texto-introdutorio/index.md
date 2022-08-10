@@ -1,124 +1,75 @@
 ---
-date: "2022-06-02"
+date: "2022-08-08"
 draft: false
-excerpt: "Essa série de posts é uma forma de documentar alguns aprendizados na minha trajetória com analista de dados. Estou fazendo o curso de [Microsoft Power Bi](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science) oferecido pela Data Science Academy.\n"
-subtitle: ""
-title: Estudo de caso I - Dashboard de vendas
+excerpt: " "
+subtitle: " "
+title: "Estágio Supervisionado: Experiências e projetos de uma estagiaria em Análise de dados"
 weight: 3
 tags:
   - analise de dados
 categories:
-  - power bi
+  - estágio supervisionado
   - visualização de dados
 ---
 
-O estudo de caso discutido aqui faz parte do curso gratuito de Power bi da Data Science Academy. **Gratuito e com certificado!** 🗣️. Iremos abordar o problema de uma determinada empresa de automóveis que precisa de um dashboard contendo informações sobre as vendas da empresa entre os anos 2016 e 2019. Além disso, precisamos auxiliar o novo  CEO na decisão de permanecer ou não com a venda de uma das marcas de automóveis. 
+Esse post é uma forma de documentar algumas das minhas atividades desenvolvidas e experiências vivenciadas durante a realização do estágio supervisionado, que foi realizado no [Laboratório de Análises Estatísticas - LANEST](https://sites.google.com/site/uaestufcg1/lanest), localizado na Universidade Federal de Campina Grande (UFCG).
+
+No decorrer do estágio, pude auxiliar no desenvolvimento de quatro projetos. Dois deles consistiam na elaboração de dois planos amostrais, e os demais em análises de dados. Ao longo dessa série de posts irei descrever cada um deles e quais técnicas e ferramentas foram utilizadas nos seus desenvolvimentos.
+
+------
+
+## Atividades Realizadas
+
+Um estágio é, por definição, um período de aprendizado. É a melhor maneira de começar a descobrir o mundo profissional, quando é possível testar (e errar) na prática. Por isso, diversas atividades são realizadas ao longo do período em que estamos estagiando. 
+
+As principais atividades que eu, como estagiaria de análise de dados, pude desempenhar foram:
 
 
-Vamos lá? Vamos à história. 
+- **Reuniões com consulentes:** eu conversei, e muito com profissionais de diversas áreas. Desde entender um problema, analisá-lo e apresentar resultados dos meus trabalhos.
+
+- **Tratamento e análise de dados:** foram realizados dois tipos de análise: 
+  
+  - Análise Exploratória de Dados (AED): explorar os dados brutos para encontrar novas características nos dados, e 
+  
+  - Análise Confirmatória de Dados (ACD): confirmar se uma hipótese é válida ou não.
+
+- **Visualização e storytelling:** após o entendimento do problema e todo o processo exploratório, é necessário apresentar o que foi encontrado, com isso duas técnicas foram extremamente necessárias:
+
+  1. saber contar história com dados, e
+  
+  2. boa visualização dos resultados encontrados.
+
+- **Elaboração de relatórios:** Como o estágio era supervisionado, além dos resultados, os relatórios precisavam conter toda a teoria utilizada na análise. Assim, eu pude fazer um resumo/estudo mais aprofundado sobre diversas técnicas de Estatística, tais como: testes de hipóteses e amostragem estratificada.
+
+- **Linguagem R:** sou uma estatista em formação e -- como é de conhecimento público que todo estatístico ama trabalhar com R -- as análises realizadas durante o estágio foram feitas no R. 
 
 
-## Introdução
+## Quais foram as disciplinas essenciais para o Estágio?
 
+As principais disciplinas foram “Análise Exploratória de Dados (AED)” e “Estatística Computacional”, ambas disciplinas iniciais do curso.
 
-A Radiator Springs é uma revendedora de automóveis de luxo fundada em 2016 na cidade de São Paulo. No ano de 2019 a empresa sofreu algumas mudanças, e uma delas foi a chegada do novo CEO. Com isso, o gerente precisou apresentar todas as informações sobre as vendas de automóveis no período de 2016 a 2019. Além disso, o CEO estava tendo dificuldades ao decidir se continuava ou não com a venda de automóveis da marca Jaguar.
+Não é novidade que a Análise Exploratória de dados (AED) é uma etapa extremamente importante para Estatísticos e Cientistas de dados. A  (AED) consiste em analisar e investigar conjuntos de dados e resumir suas principais características, muitas vezes usando métodos de visualização. Além disso, ela permite obter um entendimento básico dos dados e das relações existentes entre as variáveis analisadas. 
 
+Algumas das ferramentas comumente usadas para criar uma AED são as linguagens de programação, Python e R. O primeiro contato com essas linguagens é feito na disciplina Estatística Computacional, principalmente a linguagem R. Por isso, ela foi muito importante durante todo o Estágio.
 
-Neste momento uma pergunta muito importante precisa ser respondida: **Você conseguiu pegar a referência contida neste post?** Uma dica:
+Além disso, também foi de suma importância os conhecimentos adquiridos nas disciplinas de Amostragem e Inferência Estatística.
 
-<iframe src="https://giphy.com/embed/expSIcGXjZbe8" width="700" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneypixar-disney-pixar-expSIcGXjZbe8">via GIPHY</a></p>
+## Conteúdos 
 
-E agora? 
+Apesar da pouca quantidade de projetos, eu aproveitei para revisar alguns conceitos e definições importantes. Os assuntos abordados foram:
 
-Voltando para o nosso problema. A real pergunta é: **Como saber se o CEO deve continuar ou não com as vendas de automóveis da marca Jaguar?** 
+- Amostragem simples
+- Amostragem estratificada
+- Testes de Hipóteses
+- Analise descritiva e Inferencial
+- Visualização de dados.
 
-## Desenhando uma solução
+Além disso, os projetos eram bem específicos, então para entender sobre o contexto dos problemas abordados precisei pesquisar e compreender alguns assuntos, tais como
 
-Uma possível solução consiste em verificar como as vendas de automóveis deste fabricante evoluíram por ano e qual o seu percentual de vendas em relação ao total. Mas antes disso, também é importante verificar as vendas das demais marcas e averiguar quais estão acima da média. Além disso, não podemos esquecer das informações que o gerente solicitou.
+- conceitos de UX Design;
+- estudo epidemiológico sobre a puberdade precoce e a dependência nicotínica; e
+- prevenção através do projeto (*prevention through design* - PtD).
 
-Assim, para representar todas essas informações e resolver o problema de negócio em questão, construí um Dashboard baseado no conjunto de dados disponibilizado.
+Os próximos post’s são um resumo dessas técnicas. Todo o conteúdo foi feito tendo em mente a solução do problema em questão, então escrevi apenas a parte teórica necessária para o determinado problema. Caso você tenha interesse em saber mais sobre cada técnica citada aqui, no final de cada publicação deixo as referências bibliográficas utilizadas. E se você não tem acesso a esses livros ou artigos, pode entrar em contato comigo 😊
 
-A fonte de dados é um arquivo Excel com dados coletados do sistema de vendas e CRM da empresa, com a as seguintes informações:
-
-
-| Variável | Descrição|
-|---------:|----------|
-| **DataNotaFiscal**|Data de emissão da nota fiscal |
-| **Fabricante**    |Fabricante do veículo |
-| **Estado**        |Estado onde foi realizada a venda |
-|**PrecoVenda**     |Preço de venda do veículo|
-|**PrecoCusto** | Preço de custo do veículo para a empresa|
-|**TotalDesconto** | Total de Desconto fornecido sobre o preço de venda|
-|**CustoEntrega** | Custo de entrega do veículo ao proprietário|
-|**CustoMaoDeobra** | Custo de Mão de Obra (secretária, mecânico, etc...)|
-|**NomeCliente** | Nome do cliente que comprou o veículo|
-|**Modelo** | Modelo do veículo|
-|**Cor** | Cor do veículo|
-|**Ano** | Ano de fabricação do veículo|
-
-## Desenvolvimento
-
-Por ser o primeiro estudo de caso do curso e também o primeiro contato com a ferramenta, o dashboard foi desenvolvido junto com o professor. O objetivo aqui é familiarizar-se com o Power Bi. Entretanto, a minha escolha de gráficos foi um pouco diferente da escolha do professor. Isso porque tenho um certo desprezo pelos gráficos de pizza, nada pessoal, apenas estou de total acordo com a Cole Nussbaumer, quando ela afirma que gráficos de pizza são ruins, porque eles são! Além disso, quando os dados são contínuos e estão em alguma unidade de tempo (como dias, meses ou anos), geralmente, uso gráficos de linhas para visualizá-los.
-
-Voilá, temos um Dashboard de vendas
-
-<a href="dash-estudoDeCaso01.png">
-<img src="dash-estudoDeCaso01.png">
-</a>
-
-Assim, todas as informações solicitadas pelo gerente foram entregues. 
-
-
-<a href="dash1-estudoDeCaso01.png">
-<img src="dash1-estudoDeCaso01.png">
-</a>
-
- 
-
-Em relação a marca Jaguar, as principais conclusões que podemos extrair do dashboard acima são:
-
-- Dos 32 milhões de automóveis vendidos, 6 milhões eram da marca Jaguar, representando cerca de 18,75% das vendas;
-
-- Comparado com as marcas Aston Martin e Rolls Royce, que possuem os maiores custos, e consequentemente, os dois maiores preços de vendas, a Jaguar apresentou a menor diferença  entre o preço de venda e o custo do veículo.
-
-- Houve um aumento considerável nas vendas totais no ano de 2019, incluindo a marca Jaguar. Por isso, devemos ter um certo cuidado ao tomar decisões aqui, pois esse aumento pode ter influenciado a média. 
-
-
-Agora cabe ao CEO decidir se continua ou não com a marca Jaguar, baseado nas informações contidas nos dados. 
-
-
----
-Esse foi o primeiro Dashboard que fiz na vida! Tem muito espaço para melhoria, mas estou orgulhosa de mim.
-
-![](emocionada-cry.gif)
-
-O ideal seria fazer uma análise exploratória para compreender melhor os dados, porém segui o que foi feito na aula. Acredito que os próximos exemplos irão abordar conteúdos mais complexos. 
-
-As minhas impressões sobre o curso até o momento:
-
-- O curso é bastante dinâmico e a todo momento o professor nos incentiva a praticar e pensar de forma crítica e analítica (pra rimar).
-
-- O Power Bi, assim como as outras ferramentas da Microsoft, é bastante intuitivo. Você consegue usar a ferramenta tranquilamente e aprender com facilidade. 
-
-- A parte mais difícil deste estudo de caso foi organizar os gráficos em um painel. Sério! Após finalizar o segundo capítulo do curso constatei que preciso saber mais sobre design: *Layout*, cores, tipografia… 🤯.
-
-- É um estudo de caso bastante simples, mas pelo que vi dos capítulos seguintes, a complexidade dos problemas vai aumentando ao longo do curso e o intuito é aprender não somente a ferramenta, como também desenvolver o pensamento analítico. 
-
-
-- Na graduação de Estatística os problemas abordados são bastantes teóricos, e na maioria das vezes são apresentados em relatórios extensos, focados em validar/aplicar a teoria abordada e não em resolver o problema em si. Por isso estou buscando preencher essa lacuna deixada pela graduação ao analisar dados na perspectiva de negócios, e claro, contar uma narrativa de dados. 
-
-### Brisas aleatórias
-
-- Por alguma razão que eu desconheço, a minha borracha tem a imagem do relâmpago McQueen (popularmente conhecido como relâmpago Marquinhos) do filme Carros. Por isso escolhi o nome da empresa fictícia de automóveis como “Radiator Springs”, pois esse é o nome da cidade do filme. (Pegou a referência agora?)
-
-- Esse filme foi lançado em 2006 😮 e eu lembro perfeitamente dele. Meu Deus, estou ficando velha, e se você leu até aqui, provavelmente está pensando o mesmo. 
- 
-
-
----
-### Referências:
-Imagem da capa: <a href="https://www.freepik.com/photos/digital-team">Digital team photo created by ijeab - www.freepik.com</a>
-
-Curso e dados utilizados: <a href="https://www.datascienceacademy.com.br/">www.datascienceacademy.com.br</a>
-
-
+Bora lá?

@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Graduada em Estatística pela Universidade Federal de Campina Grande (UFCG). Participou do Programa de Educação Tutorial (PET), onde ministrou cursos de R e Latex, foi monitora da disciplina Inferência Estatística e iniciação científica na área de Análise Exploratória de Dados. 
+  Graduada em Estatística pela Universidade Federal de Campina Grande (UFCG). Participou do Programa de Educação Tutorial (PET), onde ministrou cursos de R e Latex, foi monitora da disciplina Inferência Estatística e iniciação científica na área de Análise Exploratória de Dados.
   
   Ainda na graduação (concluída em maio de 2022), foi estagiária no Laboratório de Análises Estatística da UFCG e realizou diversas análises que lhe mostraram a importância de entender o contexto dos problemas e como é crucial criar uma narrativa de dados.
   

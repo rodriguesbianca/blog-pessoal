@@ -2,7 +2,7 @@
 title: "Me conheça"
 excerpt: "A história é boa"
 subtitle: "A história é boa"
-date: 2022-06-01
+date: 2022-08-01
 author: "Bianca Rodrigues"
 draft: false
 tags:
@@ -44,34 +44,4 @@ Organizei os meus estudos para o ano inteiro: Sentei na frente do computador, ab
 
 Tabelei tudo que considerei essencial, incluindo mais estatística. Também mapeei as *soft skill* e como eu poderia usufruí-las… Colocar tudo em um só lugar me deu paz, pois eu sabia por onde começar e onde eu quero chegar.
 
-## Uma artista multidisciplinar que se aventurou nas ciências exatas.
 
-Comecei a desenhar na escola em um projeto social  juntamente com alguns amigos. Fazíamos diversas atividades e uma delas era desenhar para estimular a criatividade. No começo eram só alguns rascunhos feitos de forma despretensiosa nos corredores da escola após fugir da aula de geografia, ou na biblioteca após ler um livro de ficção. Depois aprendi a bordar com a minha avó e passávamos muitas tardes juntas apenas bordando enquanto assistimos a sessão da tarde. 
-
-Vários anos se passaram, eu já não era uma criança do fundamental e sim uma universitária cansada. Foi então, que em 2020, minha vida de empreendedora começou, vendendo minha arte (não na praia) na Internet. 
-
-<iframe src="https://c.tenor.com/3C2Y1pJGemcAAAAC/praia-na.gif" width="280" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a 
-
-Por causa disso, eu precisei estudar sobre marketing, vendas, organização e tudo que é necessário para gerenciar um pequeno negócio. A Estatística sempre esteve presente, seja no financeiro, na análise de perfil dos clientes, ou em estratégias para lançamentos. No fim das contas, percebi que muito do meu trabalho como artista estava ligado à análise de dados:
-
-- **Comunicação:**  A minha arte é sobre contar histórias de pessoas através de desenhos e bordados, e para isso eu preciso entender bem o que o cliente deseja, qual mensagem passar nos meus desenhos, qual o tipo de história está sendo contada, quais elementos eram necessários e quais perguntas eu teria que fazer para conseguir captar tudo isso. Com a análise de dados não é diferente.
-
-- **Atenção:** A arte requer atenção. Trabalhar com bordado e arte, onde os seus erros ficam eternizados no papel ou no tecido, me ensinou a verificar, verificar, verificar. Checar, checar de novo, procurar erros em legendas de post, traços incorretos nos desenhos, entre outros.
-
-- **Planejamento:** Não dá pra começar um projeto sem planejamento, é preciso entender bem do que o problema se trata e fazer as perguntas certas para poder criar algo com o prazo relativamente curto.
-
-- **Organização:** Como dar conta de tantas encomendas de desenhos para diferentes pessoas de diferentes lugares? Só com muita organização, planilhas e um tempinho para pequenos surtos. 
-
-- **Saber aprender:** Ao longo do tempo adquiri meu próprio estilo de desenho e bordado, mas vez ou outra alguma encomenda me tirava da zona de conforto me fazendo aprender alguma técnica nova. Além disso, nem só de arte vive um artista, é preciso saber sobre marketing, estratégias de vendas, empreendedorismo. Nada disso é ensinado na universidade, então só nos resta aprender por conta própria, e assim eu fiz, e me diverti no processo.  
-
-**Essa é a minha história e eu me apoderei dela. Cada persona - a eu artista, empreendedora e a eu acadêmica -  me tornaram a pessoa que sou hoje com todas as suas vantagens e desvantagens. Conhecer a si mesmo é libertador. Saber sobre seus pontos fortes e fracos e usá-los ao seu favor é a sua maior *skill*.**
-
-
-
-
-
-
-
-
-
- 
